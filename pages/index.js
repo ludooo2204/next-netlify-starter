@@ -14,7 +14,7 @@ export default function Home() {
         <Header title="Welcome to my app!" />
         <div className='rectangle'
         > 
-        <div className="left">toto</div>
+        <div className="left"></div>
         <div className="right"></div>
         </div>
         <p className="description">
