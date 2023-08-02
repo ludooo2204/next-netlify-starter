@@ -12,6 +12,11 @@ export default function Home() {
 
       <main>
         <Header title="Welcome to my app!" />
+        <div className='rectangle'
+        > 
+        <div className="left">toto</div>
+        <div className="right"></div>
+        </div>
         <p className="description">
           Get started by editing <code>pages/index.js</code>
           Get started by editing <code>pages/index.js</code>

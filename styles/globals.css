@@ -33,3 +33,17 @@ code {
   justify-content: center;
   align-items: center;
 }
+.rectangle{
+  width: 100%;
+  height: 10VH;
+  border: 1px red solid ;
+}
+.left{
+  width: 40VW;
+  background-color: red;
+  height: 10vh;
+}
+.right{
+  width: 60VW;
+  height: 10VH;
+}
